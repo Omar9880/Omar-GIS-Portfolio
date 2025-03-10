@@ -1,0 +1,2 @@
+This repository serves as a collection of GIS coursework and projects, demonstrating skills in mapping, geospatial analysis, and cartographic design. More projects will be added as I progress in my GIS studies!
+
