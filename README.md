@@ -29,4 +29,4 @@ Applied IDW and Kriging interpolation methods to represent rainfall variation ac
 ---
 
 📌 **More projects coming soon!**  
-Connect with me on [LinkedIn](https://www.linkedin.com) or check out my GitHub for code-based GIS projects.
+
