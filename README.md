@@ -1,12 +1,12 @@
-# 📁 Omar's GIS Portfolio
+# Omar's GIS Portfolio
 
 Welcome! This GitHub repository showcases a growing collection of GIS projects, data science tools, and technical skills developed as part of my Geographic Information Science studies at The Ohio State University and personal career growth.
 
 ---
 
-## 🗺️ Featured GIS Projects (ArcGIS/QGIS)
+## Featured GIS Projects (ArcGIS/QGIS)
 
-Organized map-based projects using ArcGIS Pro and QGIS. Includes digitizing, spatial analysis, and cartographic design.
+Organized map-based projects using ArcGIS Pro and other tools. Includes digitizing, spatial analysis, and cartographic design.
 
 **GIS-Projects**
 - Alabama Hospital Capacity vs COVID-19
@@ -20,25 +20,25 @@ Organized map-based projects using ArcGIS Pro and QGIS. Includes digitizing, spa
 
 ---
 
-## 🐍 Python GIS + Automation Projects
+## Python GIS + Automation Projects
 
 Python-based tools built for GIS automation, accessibility, and data processing.
 
 **GIS-Python**
 - Accessible Path Finder (CABS + OSU Buildings)
   - Calculates nearest bus stops using spatial distance
-  - Built with GeoPandas, SciPy KDTree
+  - Built with GeoPandas and SciPy KDTree
   - Outputs CSV-style results
 
 ---
 
-## 📝 Note
+## Note
 
-All files are organized into folders by project type. Feel free to explore `.pdf` maps or Python scripts to learn more about each project.
+All files are organized into folders by project type. Feel free to explore individual `.pdf` maps or Python scripts to learn more about each project.
 
 ---
 
-## 🧪 Coming Soon
+## Coming Soon
 
 - Java + GIS tools
 - GIS + SQL (PostGIS + Spatial SQL examples)
@@ -47,7 +47,7 @@ All files are organized into folders by project type. Feel free to explore `.pdf
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - ArcGIS Pro, QGIS
 - Python (GeoPandas, ArcPy basics)
