@@ -1,44 +1,39 @@
 # 🗺️ Omar's GIS Portfolio
 
-Welcome! This GitHub repository showcases a growing collection of GIS projects, data science tools, and technical skills developed as part of my Geographic Information Science studies at The Ohio State University and personal career growth.
+Welcome! This GitHub repository showcases a growing collection of GIS projects, spatial analysis tools, and technical skills developed through my Geographic Information Science degree at The Ohio State University and hands-on experience at OSU’s Facilities Information & Technology Services.
 
 ---
 
 ## 🔍 Featured GIS Projects (ArcGIS/QGIS)
 
-📁 [`/GIS-Projects`](./GIS-Projects)
-- **🏢 BIM Spatial Quality Control** – Validated 3D BIM modules for spatial accuracy (XY + Z) at OSU FITS
-- **🕌 Mosque Accessibility in Franklin County** – Transit + buffer analysis on underserved Muslim communities
-- **🏥 Alabama Hospital COVID-19 Analysis** – Proportional symbol mapping of healthcare capacity
-- **🧊 Arctic Sea Ice Change** – Temporal raster visualization of climate impact
-- **🌧️ Ohio Rainfall Interpolation** – IDW vs Kriging to show spatial patterns
+| Project | Description |
+|--------|-------------|
+| [📄 BIM Spatial QC](GIS-Projects/01_BIM_Spatial_QC.pdf) | Checked and validated BIM module alignment using ArcGIS Pro. |
+| [📄 Mosque Accessibility](GIS-Projects/02_Mosque_Accessibility.pdf) | Mapped Columbus mosques and transit access with spatial buffers. |
+| [📄 Hospital Capacity & COVID](GIS-Projects/03_Hospital_Capacity_COVID.pdf) | Visualized Alabama's hospital capacity during COVID-19. |
+| [📄 Arctic Sea Ice Decline](GIS-Projects/04_Arctic_Sea_Ice.pdf) | Analyzed long-term Arctic ice loss with remote sensing data. |
+| [📄 Cities of Franklin County](GIS-Projects/05_Cities_of_Franklin_County.pdf) | Mapped municipalities and boundaries within Franklin County. |
+| [📄 Ohio Precipitation Interpolation](GIS-Projects/06_Ohio_Precipitation.pdf) | Interpolated rainfall data using IDW/Kriging in ArcGIS. |
+| [📄 Basemap Digitizing](GIS-Projects/07_Basemap_Digitizing.pdf) | Created custom digitized layers from satellite imagery. |
 
 ---
 
 ## 🐍 GIS + Python Projects
 
-📁 [`/GIS-Python-Projects`](./GIS-Python-Projects)
-- **🚌 Accessible Path Finder** – Finds closest CABS stop from campus buildings using GeoPandas + Shapely
+| Script | Description |
+|--------|-------------|
+| [🧭 Accessible Path Finder](GIS-Python/accessible_path_finder.py) | Uses GeoPandas & KDTree to route OSU students to nearest CABS bus stops. |
+| [📘 README](GIS-Python/accessible_path_finder_README.md) | Explains how the routing script works with sample output table. |
 
 ---
 
-## 🗃 GIS + SQL Projects
+## 📚 Coming Soon
 
-📁 [`/GIS-SQL-Projects`](./GIS-SQL-Projects)
-- *(Coming soon: census querying, spatial joins with PostGIS, etc.)*
+- Java + GIS tools  
+- GIS + SQL (PostGIS + Spatial SQL examples)  
+- Tableau dashboards for geospatial data  
+- AWS-hosted GIS web app  
 
----
-
-## 💻 Technical Skills & Certifications
-
-📁 [`/Technical-Skill-Tracks`](./Technical-Skill-Tracks)
-- ✅ Python – Data structures, OOP, GIS automation *(In Progress)*
-- ☕ Java – Coursera/Udemy courses *(Coming soon)*
-- 🗃 SQL – IBM Data Analyst track *(Coming soon)*
-- 🧬 Git & GitHub – Workflow examples, versioning, portfolio
-- ☁️ AWS – Cloud Practitioner (target: Fall 2025)
-- 📊 Google Data Analytics – Clean/visualize/interpret data
-- 📈 Tableau – Dashboards and storytelling *(Coming soon)*
 
 ---
 
@@ -49,8 +44,5 @@ Welcome! This GitHub repository showcases a growing collection of GIS projects, 
 - Adobe Illustrator (map design)  
 - GitHub for version control and project sharing
 
----
-
-## 🙋‍♂️ About Me
-I'm a GIS major at The Ohio State University with a passion for spatial analysis, cloud GIS, and data science. I use this space to grow my skills and share real-world projects. Let’s connect!
+--
 
