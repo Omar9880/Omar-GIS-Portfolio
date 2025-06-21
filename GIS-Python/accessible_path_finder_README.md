@@ -1,30 +1,34 @@
-# 🚌 Accessible Path Finder for OSU Students
+# Accessible Path Finder for OSU Students
 
 This Python GIS tool calculates the nearest CABS bus stop from each building on OSU's campus.  
-It’s designed to support accessible routing using spatial analysis and distance calculations.
+It was developed to support accessible routing using spatial analysis and distance calculations.
 
 ---
 
-## 🔍 What It Does
+## What It Does
 
-- Loads building and bus stop locations using GeoPandas
-- Projects coordinates for accurate distance measurement
-- Uses SciPy’s KDTree to find the closest bus stop
-- Outputs a table (or CSV) showing distances in meters
-
----
-
-## 🧪 Example Output
-
-| Building            | Nearest Bus Stop ID | Distance (meters) |
-|---------------------|----------------------|--------------------|
-| Thompson Library    | 101                  | 122.47             |
-| Enarson Classroom   | 102                  | 134.76             |
-| Scott Lab           | 103                  | 107.89             |
+- Loads simulated building and bus stop locations using GeoPandas
+- Projects coordinates to a local CRS for accurate distance calculations
+- Uses SciPy's KDTree to identify the nearest bus stop to each building
+- Outputs results as a distance table or optionally saves to CSV
 
 ---
 
-## 🛠️ Technologies
+## Example Output
+
+Each row in the output contains:
+- Building name
+- Nearest bus stop ID
+- Distance to that stop (in meters)
+
+Example:
+Thompson Library → Stop 101 → 122.47 meters  
+Enarson Classroom → Stop 102 → 134.76 meters  
+Scott Lab → Stop 103 → 107.89 meters
+
+---
+
+## Technologies Used
 
 - Python
 - GeoPandas
@@ -34,14 +38,15 @@ It’s designed to support accessible routing using spatial analysis and distanc
 
 ---
 
-## 📂 Files
+## Files Included
 
 - `accessible_path_finder.py` – main script
-- `accessible_paths.csv` – optional export file (uncomment `.to_csv()` to use)
+- `accessible_paths.csv` – optional export (generated if `.to_csv()` is enabled)
 
 ---
 
-## 🧭 Author
+## Author
 
-Built by Omar Ali  
-GIS Intern @ OSU Facilities Information & Technology Services
+Omar Ali  
+GIS Intern, OSU Facilities Information & Technology Services
+
