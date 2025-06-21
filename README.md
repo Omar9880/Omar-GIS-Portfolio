@@ -1,48 +1,57 @@
-# 🗺️ Omar's GIS Portfolio
+# 📁 Omar's GIS Portfolio
 
-Welcome! This GitHub repository showcases a growing collection of GIS projects, spatial analysis tools, and technical skills developed through my Geographic Information Science degree at The Ohio State University and hands-on experience at OSU’s Facilities Information & Technology Services.
-
----
-
-## 🔍 Featured GIS Projects (ArcGIS/QGIS)
-
-| Project | Description |
-|--------|-------------|
-| [📄 BIM Spatial QC](GIS-Projects/01_BIM_Spatial_QC.pdf) | Checked and validated BIM module alignment using ArcGIS Pro. |
-| [📄 Mosque Accessibility](GIS-Projects/02_Mosque_Accessibility.pdf) | Mapped Columbus mosques and transit access with spatial buffers. |
-| [📄 Hospital Capacity & COVID](GIS-Projects/03_Hospital_Capacity_COVID.pdf) | Visualized Alabama's hospital capacity during COVID-19. |
-| [📄 Arctic Sea Ice Decline](GIS-Projects/04_Arctic_Sea_Ice.pdf) | Analyzed long-term Arctic ice loss with remote sensing data. |
-| [📄 Cities of Franklin County](GIS-Projects/05_Cities_of_Franklin_County.pdf) | Mapped municipalities and boundaries within Franklin County. |
-| [📄 Ohio Precipitation Interpolation](GIS-Projects/06_Ohio_Precipitation.pdf) | Interpolated rainfall data using IDW/Kriging in ArcGIS. |
-| [📄 Basemap Digitizing](GIS-Projects/07_Basemap_Digitizing.pdf) | Created custom digitized layers from satellite imagery. |
+Welcome! This GitHub repository showcases a growing collection of GIS projects, data science tools, and technical skills developed as part of my Geographic Information Science studies at The Ohio State University and personal career growth.
 
 ---
 
-## 🐍 GIS + Python Projects
+## 🗺️ Featured GIS Projects (ArcGIS/QGIS)
 
-| Script | Description |
-|--------|-------------|
-| [🧭 Accessible Path Finder](GIS-Python/accessible_path_finder.py) | Uses GeoPandas & KDTree to route OSU students to nearest CABS bus stops. |
-| [📘 README](GIS-Python/accessible_path_finder_README.md) | Explains how the routing script works with sample output table. |
+Organized map-based projects using ArcGIS Pro and QGIS. Includes digitizing, spatial analysis, and cartographic design.
 
----
-
-## 📚 Coming Soon
-
-- Java + GIS tools  
-- GIS + SQL (PostGIS + Spatial SQL examples)  
-- Tableau dashboards for geospatial data  
-- AWS-hosted GIS web app  
-
+**GIS-Projects**
+- Alabama Hospital Capacity vs COVID-19
+- Arctic Sea Ice Decline
+- Mosque Accessibility in Franklin County
+- Cities of Franklin County, OH
+- Basemap Digitizing
+- BIM XYZ QC
+- Ohio Precipitation Interpolation
+- More to come...
 
 ---
 
-## 🛠 Tools Used
-- ArcGIS Pro, QGIS  
-- Python (GeoPandas, ArcPy basics)  
-- SQL for spatial databases  
-- Adobe Illustrator (map design)  
+## 🐍 Python GIS + Automation Projects
+
+Python-based tools built for GIS automation, accessibility, and data processing.
+
+**GIS-Python**
+- Accessible Path Finder (CABS + OSU Buildings)
+  - Calculates nearest bus stops using spatial distance
+  - Built with GeoPandas, SciPy KDTree
+  - Outputs CSV-style results
+
+---
+
+## 📝 Note
+
+All files are organized into folders by project type. Feel free to explore `.pdf` maps or Python scripts to learn more about each project.
+
+---
+
+## 🧪 Coming Soon
+
+- Java + GIS tools
+- GIS + SQL (PostGIS + Spatial SQL examples)
+- Tableau dashboards for geospatial data
+- AWS-hosted GIS web app
+
+---
+
+## 🛠️ Tools Used
+
+- ArcGIS Pro, QGIS
+- Python (GeoPandas, ArcPy basics)
+- SQL for spatial databases
+- Adobe Illustrator (map design)
 - GitHub for version control and project sharing
-
---
 
