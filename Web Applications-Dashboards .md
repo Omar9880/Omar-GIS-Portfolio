@@ -18,5 +18,4 @@ https://experience.arcgis.com/experience/779d6da51adb40938cf5df019dbc7092
 https://www.arcgis.com/apps/dashboards/5e553e5058c14103be41e351bdd9d250
 
 - **Places of Worship at the Ohio State Univerty**
-
-https://storymaps.arcgis.com/stories/0cac13aa88794c64ba49249e11c8d96b
+https://www.arcgis.com/apps/dashboards/5e553e5058c14103be41e351bdd9d250
